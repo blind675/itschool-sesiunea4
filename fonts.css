@@ -1,0 +1,21 @@
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+  font-size: 40px;
+}
+
+p {
+  font-size: 20px;
+  line-height: 16px;
+  font-weight: 400;
+}
+
+em {
+  font-style: italic;
+}
+
+strong {
+  font-weight: 700;
+}
